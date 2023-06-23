@@ -3,6 +3,7 @@ Snake Game using Python GUI
 
 This is implemented using the tkinter module which is built into the Python Standard library
 
+![](/images/SnakeGameplay.png)
 ## Code Explanation
 Open up the GUI window using tkinter, with the title "SNAKE GAME".
 ```commandline
