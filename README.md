@@ -125,4 +125,4 @@ play_again = Button(root, text="Play Again", font=("Helvetica", 20), width=15, c
 canvas.create_window(350, 370, window=play_again)
 canvas.create_text(350, 450, text=f"{score}",font=("Helvetica",20),fill="white")
 ```
-!(/images/SnakeGame_PlayAgain.png)
+![Play again screenshot](/images/SnakeGame_PlayAgain.png)
