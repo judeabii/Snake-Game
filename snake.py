@@ -29,8 +29,6 @@ class Food:
 
 
 def gameover():
-    global play_again
-    play_again = False
     canvas.delete("all")
     label.config(text=f"GAME OVER", fg="red")
 
